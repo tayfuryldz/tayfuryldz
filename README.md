@@ -1,63 +1,43 @@
-<div align="center">
+# Tayfur Yıldız
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1&pause=999999&color=F0F6FC&center=true&vCenter=true&repeat=false&width=720&height=55&lines=Tayfur+Y%C4%B1ld%C4%B1z" alt="Tayfur Yıldız" />
+Security-focused developer and open-source contributor. I work on application security, reliability, developer tooling, and the small correctness bugs that tend to hide at system boundaries.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=1&pause=999999&color=8B949E&center=true&vCenter=true&repeat=false&width=720&height=35&lines=Security+Research+%C2%B7+Bug+Bounty+%C2%B7+Security+Automation" alt="Security Research · Bug Bounty · Security Automation" />
+I prefer reproducible failures, narrow fixes, and regression tests over speculative changes. Over the last year, I have authored **140+ merged pull requests in repositories I do not own**.
 
-I build practical tooling for authorized security research: web application security, recon, validation, and low-noise automation.
+[LinkedIn](https://www.linkedin.com/in/tayfur-y%C4%B1ld%C4%B1z-3b7820391/) · [HackerOne](https://hackerone.com/tayfuryldzz?type=user) · [Bugcrowd](https://bugcrowd.com/h/tayfuryldz) · [Intigriti](https://app.intigriti.com/researcher/profile/tayfuryldz) · [YesWeHack](https://yeswehack.com/hunters/tayfuryldz#latest-hacktivity)
 
-<a href="https://www.linkedin.com/in/tayfur-y%C4%B1ld%C4%B1z-3b7820391/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tayfur_Y%C4%B1ld%C4%B1z-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://hackerone.com/tayfuryldzz?type=user"><img alt="HackerOne" src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BSGFja2VyT25lPC90aXRsZT48cGF0aCBkPSJNNy4yMDcgMGMtLjQ4MzYgMC0uODc3NC4xMDE4LTEuMTgyMy4zMDAyLS4zMDQ0LjIwMDMtLjQ1OTIuNDYyNy0uNDU5Mi43Nzk4djIxLjgwOWMwIC4yNzY2LjE1ODEuNTI3Ny40NzUyLjc2MDkuMzE1LjIzMzUuNzAzMS4zNTAxIDEuMTY2NC4zNTAxLjQ0MjcgMCAuODMwNi0uMTE2NiAxLjE2NzgtLjM1MDEuMzM1Mi0uMjMxLjUwNTgtLjQ4NDMuNTA1OC0uNzYxVjEuMDgxNWMwLS4zMTktLjE2MjMtLjU3NjktLjQ4OTMtLjc4MTNDOC4wNjQ0LjEwMTggNy42NzAyIDAgNy4yMDcgMHptOS41MjM0IDguNjYyYy0uNDgzNiAwLS44NzE3LjA5ODEtMS4xNjgzLjMwMDdsLTQuNDM5IDIuNzgyMmMtLjE5ODguMTg2MS0uMjg0MS40Njg3LS4yNDczLjg1NS4wMzQyLjM4MjYuMjEwOC43NDcuNTIzOCAxLjA5MDcuMzE0NS4zNDYuNjY2Mi41NjI2IDEuMDY4NC42NTQ3LjM5NjMuMDg5OS42OTczLjA0MS44OTYyLS4xNDNsMS43NTUxLTEuMDk1MXY5Ljc4MTdjMCAuMjc2Ny4xNTIyLjUyNzguNDYwNy43NjEuMzAwNy4yMzM1LjY4NzMuMzUwMSAxLjE1MDQuMzUwMS40NjMgMCAuODYzLS4xMTY2IDEuMTk4My0uMzUwMS4zMzcxLS4yMzMyLjUwNTgtLjQ4NDMuNTA1OC0uNzYxVjkuNzM4MWMwLS4zMTkzLS4xNjUtLjU3Ny0uNDg5OC0uNzc1NC0uMzI1Mi0uMjAyNi0uNzI4OC0uMzAwNy0xLjIxNDMtLjMwMDd6Ii8%2BPC9zdmc%2B&logoColor=white" /></a>
-<a href="https://bugcrowd.com/h/tayfuryldz"><img alt="Bugcrowd" src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BQnVnY3Jvd2Q8L3RpdGxlPjxwYXRoIGQ9Ik0yNCAxMkwxOCAxLjM4N0g2TDAgMTJsNiAxMC42MTNoMTJ6bS01Ljc4MiAxLjY1OGMtLjAwMy44MjUtLjEyMiAxLjU2OS0uMzU0IDIuMjMxYTUuMDUgNS4wNSAwIDAgMS0uOTkgMS43MDggNC4zMTYgNC4zMTYgMCAwIDEtMS41MDMgMS4wOTMgNC42OSA0LjY5IDAgMCAxLTEuODk2LjM4NSA0LjE1OCA0LjE1OCAwIDAgMS0xLjE0NS0uMTUyIDMuNzU0IDMuNzU0IDAgMCAxLS44NjgtLjM2IDMuNzkyIDMuNzkyIDAgMCAxLS42MDEtLjQzNSAzLjAyMyAzLjAyMyAwIDAgMS0uNDY2LS41MTRoLS4wNGwuMDIuMTkzYy4wMTEuMTY2LjAxOC4zMzEuMDIuNDk3di41MjhINy45NjFWNy4wNjJjMC0uMTUxLS4wNC0uMjYzLS4xMTQtLjMzNy0uMDc3LS4wNzQtLjE5LS4xMDktLjMzLS4xMDloLS44MTFWNC40MjVoMi40NTJjLjQ3My0uMDAzLjgyNC4xMDggMS4wNDguMzMxLjIyMi4yMjMuMzMzLjU3Ni4zMyAxLjA0OXYzLjAwM2MtLjAwMy4yNTgtLjAxLjQ2Ny0uMDIuNjI2bC0uMDIuMjQ3aC4wNGEyLjg5OCAyLjg5OCAwIDAgMSAuNDYzLS41MDdjLjE1Ni0uMTQzLjM1NC0uMjg0LjYtLjQyNi4yNDUtLjE0Mi41MzgtLjI2MS44NzYtLjM2LjM4LS4xLjc3LS4xNSAxLjE2Mi0uMTQ4LjcwMi4wMDMgMS4zMzQuMTM1IDEuODk0LjM5NWE0LjExOCA0LjExOCAwIDAgMSAxLjQ0NiAxLjExYy40LjQ4LjcwNyAxLjA1Mi45MiAxLjcxNS4yMTIuNjU4LjMxNyAxLjM5Mi4zMiAyLjE5OG0tMi44MDMgMS40MDZjLjEzOC0uMzk5LjIwNi0uODUyLjIwOS0xLjM2Ni0uMDAzLS42NTktLjExMi0xLjIzMS0uMzI4LTEuNzE4LS4yMTYtLjQ4NC0uNTE3LS44NTktLjkwMi0xLjEyNWEyLjM0NyAyLjM0NyAwIDAgMC0xLjM0NC0uNDA0IDIuNTcgMi41NyAwIDAgMC0uOTY5LjE4NiAyLjM3MiAyLjM3MiAwIDAgMC0uODMuNTg5IDIuODM5IDIuODM5IDAgMCAwLS41NzkgMS4wMTVjLS4xNDEuNDEzLS4yMTIuOTA2LS4yMTYgMS40NzcgMCAuMzk3LjA1My43OTIuMTU5IDEuMTc0LjEwMS4zNjYuMjY1LjcxMi40ODMgMS4wMi4yMTEuMy40ODYuNTQ4LjgwNS43MjIuMzIuMTc2LjY5OC4yNjcgMS4xMjcuMjcuMzQzLjAwMi42ODMtLjA3Ljk5Ny0uMjEzYTIuNDMgMi40MyAwIDAgMCAuODI0LS42MjNjLjI0LS4yNzMuNDI4LS42MDcuNTY0LTEuMDA0WiIvPjwvc3ZnPg%3D%3D&logoColor=white" /></a>
-<a href="https://app.intigriti.com/researcher/profile/tayfuryldz"><img alt="Intigriti" src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BSW50aWdyaXRpPC90aXRsZT48cGF0aCBkPSJNMTkuOTEzMyA2LjAzNjRjLTEuMTA1Ni41NzQtMy43NjMyIDEuOTI0LTUuODk5OSAzLjAwODQtMy43NzM4IDEuOTEzNC03LjAyNjcgMy41OTMtNy4xMTE3IDMuNjY3NC0uMDMyLjAyMTMuMDEwNi40MDQuMDg1Ljg2MTEuNTc0IDMuNDEyMyAyLjE0NzMgNi40NTI2IDQuMzE2IDguMzU1NWwuNjkxLjYxNjUuNjkwOS0uNTk1M2MxLjgzOS0xLjYxNTggMy4zMjczLTQuMjIwMiA0LjA1MDItNy4wNTg1LjE0ODgtLjU2MzQuMjc2NC0xLjMwNzYuMjg3LTEuNjQ3N2wuMDIxMy0uNjE2Ni0yLjk1NTMtMS41MzA4LS43MzM1LjM3MmMtLjM5MzMuMjAyLS43MjI5LjM5MzQtLjcyMjkuNDI1MyAwIC4wMzE5LjY2OTguMzkzMyAxLjQ4ODMuNzk3M2wxLjQ4ODIuNzMzNS0uMDYzNy4zODI3Yy0uMzkzNCAyLjE2ODYtMS42MTU4IDQuNzUxNy0yLjkyMzQgNi4xODY4bC0uNjA2LjY2OTgtLjQ0NjQtLjQyNTNjLS45MjQ4LS44OTMtMS45MzQ3LTIuNjE1LTIuNTE5NC00LjMwNTMtLjMyOTUtLjk0Ni0uNzIyOS0yLjQzNDMtLjY1OS0yLjQ4NzUuMDIxMi0uMDIxMiAzLjA0MDItMS41NDE0IDYuNzA3Ny0zLjM5MWw2LjY1NDYtMy4zNjk5LjIxMjYuMzUwOGMuNjY5NyAxLjA4NDMuNzIyOSAyLjU0MDcuMTM4MiAzLjczMTMtLjY0ODQgMS4zMTgxLTEuNzU0IDEuOTg3OS0zLjM2OTggMi4wNjIzbC0uOTc4LjA0MjUtLjA2MzguMzE4OWMtLjAzMTkuMTgwNy0uMDYzOC40Nzg0LS4wNjM4LjY4MDMgMCAuMzE5LjAzMi4zNjE1LjM4MjcuNDI1My41NzQuMTA2MyAxLjc2NDctLjAzMiAyLjQ1NTYtLjI4NyAxLjY3OTYtLjYyNzMgMi44NDktMS45MTM1IDMuMzY5OS0zLjczMTMuNDQ2NC0xLjU2MjctLjAzMi0zLjQyMy0xLjI2NS00Ljg0NzUtLjIxMjctLjI0NDUtLjQ0NjUtLjQ0NjQtLjUxMDMtLjQ0NjQtLjA3NDQuMDEwNi0xLjAzMTIuNDc4My0yLjE0NzMgMS4wNTI0ek0xLjM3MzkgNS40ODM2Qy4xODMzIDYuODc2Mi0uMjYzMiA4LjYxOTYuMTUxNCAxMC4yMzU0Yy40Njc3IDEuODA3MSAxLjY1ODMgMy4xMzYgMy4zNjk4IDMuNzczNy42OTEuMjU1MiAxLjg4MTYuMzkzNCAyLjQ1NTYuMjg3LjQxNDYtLjA4NS40NTcxLS4yMDIuMzE5LTEuMDMxbC0uMDYzOC0uMzkzNC0uOTc4LS4wNDI1Yy0xLjYyNjUtLjA3NDQtMi43MjE0LS43NDQyLTMuMzgwNS0yLjA4MzYtLjU3NC0xLjE0OC0uNTMxNS0yLjU0MDYuMDg1LTMuNjE0M2wuMjY1OC0uNDU3MSAzLjg0ODIgMS45NTYgMy44NTg4IDEuOTU2LjcxMjMtLjM1MDhjLjM5MzMtLjIwMi43MTIyLS40MDQuNzEyMi0uNDQ2NSAwLS4wNjM4LTkuMzQ0MS00LjgwNS05LjQ4MjMtNC44MDUtLjA0MjUgMC0uMjY1OC4yMjMzLS40OTk2LjQ5OTd6bTYuMzE0NC0zLjYxNDRsLS4yNjU3LjQwNC4yMzM4LjA2MzhjLjY5MS4xODA3IDEuNjkwMy45NTY3IDIuMTA0OCAxLjYzN2wuMjEyNy4zNDAyLS41OTUzLjg4MjRjLS41OTUzLjg5My0xLjIxMiAyLjAzMDQtMS4yMTIgMi4yMzIzIDAgLjA5NTcuOTU2OC42Mzc5IDEuMTM3NS42Mzc5LjA0MjYgMCAuMjg3LS40MDQuNTMxNi0uODgyNC41MzE1LTEuMDQxNy45NTY3LTEuNjU4MyAxLjY1ODMtMi40MDI0bC40OTk2LS41MzE1LjQ0NjUuNDc4M2MuNzAxNi43NTQ4IDEuMjExOSAxLjQ4ODMgMS42OTAyIDIuNDIzNy4yNDQ1LjQ2NzguNDY3OC44ODI0LjQ4OS45MTQzLjA2MzguMDc0NCAxLjIwMTMtLjU0MjIgMS4yMDEzLS42NTkxIDAtLjE5MTQtLjY0ODUtMS4zNzEzLTEuMjIyNS0yLjIxMTFsLS41OTUzLS44NzE3LjIyMzItLjM1MDhjLjMyOTUtLjUzMTYgMS4yMDEyLTEuMjc1NyAxLjc1NC0xLjQ5OS4yNjU4LS4xMTY5LjQ3ODQtLjI1NS40Nzg0LS4zMDgyIDAtLjA2MzgtLjEwNjMtLjI0NDUtLjI0NDUtLjQxNDZsLS4yNDQ1LS4yOTc2LS41MjA5LjI0NDVjLS4zMDgzLjE0ODgtLjg3MTcuNTg0Ni0xLjMzOTQgMS4wNTI0bC0uODA4LjgwNzktLjY1OS0uNjA2LS42NDg1LS42MTY1LS42NDg0LjYxNjUtLjY1OTEuNjE2Ni0uNzU0OC0uNzY1NEM5LjMyNTQgMi4xODgyIDguMjk0MyAxLjQ3NiA4LjAxOCAxLjQ3NmMtLjAzMiAwLS4xODA4LjE4MDctLjMyOTYuMzkzM3oiLz48L3N2Zz4%3D&logoColor=white" /></a>
-<a href="https://yeswehack.com/hunters/tayfuryldz#latest-hacktivity"><img alt="YesWeHack" src="https://img.shields.io/badge/YesWeHack-1A1A1A?style=for-the-badge" /></a>
+## Current work
 
-</div>
+### [HeaderProof](https://github.com/tayfuryldz/headerproof)
 
----
+An evidence-oriented HTTP security scanner built to keep findings reproducible and low-noise. The project focuses on request/response behavior around CORS, CSRF, header injection, cache poisoning, content reflection, and related web security signals.
 
-## What I work on
+I also maintain [HeaderProof Action](https://github.com/tayfuryldz/headerproof-action) and [HeaderProof Templates](https://github.com/tayfuryldz/headerproof-templates) for CI use and reusable checks.
 
-- **Web application security** — attack surface, request/response behavior, bug bounty
-- **Security automation** — repeatable recon and verification
-- **Research tooling** — less noise, evidence attached to every finding
-- **Open source** — focused fixes with regression tests 
+## Selected open-source work
 
-## Stack
+- **[OpenTelemetry PHP](https://github.com/open-telemetry/opentelemetry-php/pull/2058)** — fixed SDK attribute-limit fallback behavior across tracing and logging, with unit coverage for the global-limit paths.
+- **[OpenLayers](https://github.com/openlayers/openlayers/pull/17640)** — fixed map target cleanup affecting mouse-wheel zoom and moved the lifecycle handling into the map/browser-event layer with regression coverage.
+- **[sktime](https://github.com/sktime/sktime/pull/11141)** — made `SubLOF` compatible with pandas 3 while preserving coverage for older pandas versions.
+- **[planning-with-files](https://github.com/OthmanAdi/planning-with-files/pull/287)** — hardened concurrent PowerShell active-plan replacement with bounded retries and deterministic regression coverage.
+- **[LibreSign](https://github.com/LibreSign/libresign/pull/8730)** — corrected visible-element URL handling so downloaded bytes are validated before persistence, adapting the fix through an upstream service refactor.
+- **[The Algorithms · Python](https://github.com/TheAlgorithms/Python/pull/15432)** — tightened TimSort typing around comparable values and added regression coverage.
+- **[Headroom](https://github.com/headroomlabs-ai/headroom/pull/3655)** — made memory handling fail closed when tool references cannot be resolved, with project-isolation regression coverage.
+- **[react-native-better-maps](https://github.com/gmi-software/react-native-better-maps/pull/143)** — hardened overlay collection against invalid coordinates and split validation into focused, tested paths.
+
+Most of my upstream work is in bug fixes, edge-case handling, regression tests, and reliability improvements. The full history is available in my [pull requests](https://github.com/pulls?q=is%3Apr+author%3Atayfuryldz).
+
+## Tools & languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker&theme=dark" alt="Python, Bash, Linux, Git, GitHub and Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="28" height="28" alt="Rust" title="Rust" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="28" height="28" alt="PHP" title="PHP" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="28" height="28" alt="Bash" title="Bash" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" />
 </p>
 
-**Daily environment:** Kali Linux / WSL · Burp Suite · Nuclei · Nmap · ProjectDiscovery tooling
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Marrow](https://github.com/TayfurYldz/marrow)
-
-Fail-closed, evidence-based HTTP request minimizer for authorized security research.
-
-</td>
-<td width="50%" valign="top">
-
-### [HeaderProof](https://github.com/TayfurYldz/headerproof)
-
-Low-noise active scanner for CORS, CSRF, header injection, cache poisoning, and content-spoofing leads.
-
-</td>
-</tr>
-</table>
-
-## How I work
-
-Evidence over assumptions: reproduce first, understand why, then verify.
-
-```text
-Map the surface → Form a hypothesis → Reproduce → Validate → Keep the evidence
-```
-
-<sub>Authorized security research only.</sub>
+Security work is performed only in authorized environments and open-source projects.
